@@ -62,7 +62,6 @@ main {
 .write-btn:hover {
   background-color: var(--button-hover);
   font-weight: bold;
-  color: black;
 }
 .media-info-msg {
   position: fixed;
